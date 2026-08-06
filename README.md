@@ -98,4 +98,4 @@ Todo o código está concentrado em um único arquivo (`poor_mans_kinect.py`, ~8
 
 ## Licença
 
-Não há arquivo de licença no repositório. Sem uma licença explícita, os termos padrão de direitos autorais se aplicam (todos os direitos reservados ao autor) — considere adicionar um arquivo `LICENSE` (por exemplo MIT ou Apache 2.0) se pretende permitir reuso por terceiros.
+Distribuído sob a licença MIT — veja o arquivo [LICENSE](LICENSE) para o texto completo.
