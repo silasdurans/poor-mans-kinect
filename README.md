@@ -2,6 +2,8 @@
 
 Webcam full-body motion controller — a low-cost, camera-only alternative to a Kinect/depth sensor for casual full-body input, demoed with a built-in dodge mini-game.
 
+> **Status do projeto:** este trabalho foi submetido como artigo curto ao **SBGAMES 2026** (ver [26075_Short_Papers.pdf](26075_Short_Papers.pdf)), mas **não passou da fase de rebuttal** — ou seja, não foi aceito para publicação. O repositório é mantido como registro do protótipo e do artigo submetido.
+
 ## O que é e por quê
 
 O Microsoft Kinect (e sensores de profundidade similares) permitia controlar jogos com o corpo inteiro, mas depende de hardware dedicado (câmera de profundidade, infravermelho) que a maioria das pessoas não tem mais à mão — os sensores originais foram descontinuados e equivalentes atuais (LiDAR, câmeras de profundidade) ainda são caros ou incomuns em notebooks comuns.
@@ -81,6 +83,7 @@ poor-mans-kinect/
 │                              # overlay/HUD, mini-jogo e loop principal
 ├── pose_landmarker_lite.task # Modelo MediaPipe Pose Landmarker (Lite) usado para estimação de pose
 ├── latency_log.csv           # Log de latência por frame, gerado/sobrescrito a cada execução
+├── 26075_Short_Papers.pdf    # Artigo curto submetido ao SBGAMES 2026 (não aceito, parou no rebuttal)
 └── README.md
 ```
 
